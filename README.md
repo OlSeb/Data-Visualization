@@ -1,2 +1,2 @@
 # Data Visualization
-Compilation of notebooks focusing on data visualization
+# Compilation of notebooks focusing on data visualization
