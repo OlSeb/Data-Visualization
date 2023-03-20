@@ -1,1 +1,2 @@
-# Data Visualization - Co2-temp correlation
+# Data Visualization
+Compilation of notebooks focusing on data visualization
